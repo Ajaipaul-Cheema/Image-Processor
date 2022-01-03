@@ -1,9 +1,3 @@
-# CMPT 120 Yet Another Image Processer
-# Starter code for cmpt120imageManip.py
-# Author(s): Mohammad Haris Ahmad, Ajaipaul Cheema
-# Date: December 7, 2020.
-# Description: This file contains all the manipulations that appear on the interface.
-
 # import module
 import cmpt120imageProj
 
